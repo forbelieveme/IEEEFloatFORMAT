@@ -1,13 +1,11 @@
 package logica;
 
-import preparador.Impresora;
 import java.math.BigDecimal;
 import java.util.ArrayList;
 
 public class Conversor {
 
     Recolector recolector = new Recolector();
-    Impresora imp = new Impresora();
 
     ArrayList<Integer> arregloAux2 = new ArrayList();
 
